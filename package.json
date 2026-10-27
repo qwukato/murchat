@@ -1,0 +1,9 @@
+{
+  "name": "murchat",
+  "version": "1.0.0",
+  "description": "Мурчат — милый мессенджер, где пишут только буквы Т, Ы, Ф, Ь",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "license": "MIT"
+}
